@@ -18,10 +18,10 @@
             <h2>Wie ben ik?</h2>
             <h3> Daniel Etienne <span>/</span> <span class="none" id="age">00 jaar</span> <span>/</span> Designer <span>/</span> Developer</h3>
 
-            <p>Uitdagingen vind ik fantastisch. Hoe moeilijker hoe beter. Ik zie altijd oplossingen. Tegenslag? maakt mij niet uit, ik zal me doel halen.
+            <p>Uitdagingen vind ik fantastisch. Hoe moeilijker hoe beter. Ik zie altijd oplossingen. Tegenslag? Maakt mij niet uit, ik zal mijn doel halen.
             </p><br>
 
-            <p>Naast werk sport ik iedere dag. Krachttraining geeft me energie voor de volgende dag. Ik kan niet stil zitten, moet altijd iets nuttigs blijven doen. Een uitdaging houdt immers het leven interessant.
+            <p>Naast werk sport ik iedere dag. Krachttraining geeft mij energie voor de volgende dag. Ik kan niet stil zitten, moet altijd iets nuttigs blijven doen. Een uitdaging houdt immers het leven interessant.
             </p>
 
             <hr>
@@ -36,7 +36,7 @@
                 <div class="blok">
                     <h4>Design</h4>
                     <i class="icon-picture"></i>
-                    <p>ik heb veel Designs gemaakt voor grote bedrijven en kleine opdrachten. Ik heb kennis van bijna het hele Adobe-pakket en daarnaast ben ik behendig in blender, Affinity en Final-Cut-Pro.
+                    <p>Ik heb veel Designs gemaakt voor bedrijven en andere opdrachten. Ik heb kennis van bijna het hele Adobe-pakket en daarnaast ben ik behendig in Blender, Affinity en Final-Cut-Pro.
                     </p>
                 </div>
             </div>

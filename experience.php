@@ -21,7 +21,7 @@
             <p>Voor uitdagingen draai ik mijn hand niet om. Het inspireert mij om op zoek te gaan naar oplossingen. Door tegenslagen laat ik me niet tegenhouden. Ik wil te allen tijde mijn doel halen.
             </p>
             <br>
-            <p>Voor een goed gesprek sta ik altijd open. Ik vind het zeer interessant om te ontdekken waarom mensen achter bepaalde keuzes en principes staan. Een goede discussie ga ik zeker niet uit de weg. Ik stel mij open voor nieuwe gedachten en de dingen op een andere manier zien.</p>
+            <p>Voor een goed gesprek sta ik altijd open. Ik vind het zeer interessant om te ontdekken waarom mensen achter bepaalde keuzes en principes staan. Een goede discussie ga ik zeker niet uit de weg.</p>
 
             <hr>
             
@@ -103,7 +103,7 @@
                     <p class="date">2014 - 2018</p>
                     <h5>Middelbare school, Van Lodenstein Collage</h5>
                     <p class="location">Amersfoort / Hoevelaken</p>
-                    <p>VMBO kader. Hier heb ik afdeling economie gevolgt.</p>
+                    <p>VMBO kader. Hier heb ik de afdeling economie gevolgt.</p>
                 </div>
             </div>
         </div>

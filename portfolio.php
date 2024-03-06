@@ -28,7 +28,7 @@
                     <h5>TokenToLine - CEO</h5>
                     <p class="location"> <a href="https://tokentoline.com" target="_blank">TokenToLine.com</a></p>
                     <img class="klikbareFoto" src="img/portfolio/tokentoline.png" alt="">
-                    <p>Eigenaar van TokenToLine. Bestaand uit een team van 5 mensen die het beste uit de crypto wereld willen halen. Neem een kijkje op de website en vooral de GitHub.</p>
+                    <p>Eigenaar van TokenToLine: team van 5 mensen die het beste uit de crypto wereld willen halen. Neem een kijkje op de website en vooral de GitHub.</p>
 
                 </div>
 
@@ -38,14 +38,6 @@
                     <p class="location"> <a href="https://mvdwfoundation.nl" target="_blank">mvdwfoundation.nl</a></p>
                     <img class="klikbareFoto" src="img/portfolio/mvdw.jpg" alt="">
                     <p>Met een team van 5 man alles vastgelegd op beeld en hier gaaf promotiemateriaal van gemaakt. Dit is terug te zien op de socails van mvdw foundation.</p>
-                </div>
-                
-                <div class="blok">
-                    <p class="date"></p>
-                    <h5>Echte koffie</h5>
-                    <p class="location"> <a href="https://u210738.gluwebsite.nl/koffie/" target="_blank">rijschoolyourstep.com</a></p>
-                    <img class="klikbareFoto" src="img/portfolio/echtekoffie.png" alt="">
-                    <p>Complete huisstijl en website voor Echte Koffie.</p>
                 </div>
 
 
@@ -66,7 +58,11 @@
                 </div>
 
                 <div class="blok">
-                   
+                    <p class="date"></p>
+                    <h5>Echte koffie</h5>
+                    <p class="location"> <a href="https://u210738.gluwebsite.nl/koffie/" target="_blank">echtekoffie.nl</a></p>
+                    <img class="klikbareFoto" src="img/portfolio/echtekoffie.png" alt="">
+                    <p>Complete huisstijl en website voor Echte Koffie.</p>
                 </div>
             </div>
         </div>
