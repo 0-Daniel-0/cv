@@ -396,6 +396,12 @@ p, label, a {
     .infomation {
         width: 500px;
         margin: 70px 0 70px 450px;
+        &::before {
+            margin-left: 450px;
+        }
+        &::after {
+            margin-left: 450px;
+        }
         .container {
             // column-count: 1;
             .blok {

@@ -402,6 +402,12 @@ p, label, a {
     width: 500px;
     margin: 70px 0 70px 450px;
   }
+  .infomation::before {
+    margin-left: 450px;
+  }
+  .infomation::after {
+    margin-left: 450px;
+  }
   .infomation .container .blok {
     overflow: hidden;
   }
